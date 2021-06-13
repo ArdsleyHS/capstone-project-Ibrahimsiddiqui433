@@ -13,14 +13,6 @@ p {
   height: auto;
 }
 
-h1 {
-  font-family: "bamboo_font";
-  font-weight: bold;
-}
 
-@font-face {
-  font-family: bamboo_font;
-  src: url(EcoBambooFun.woff);
-}
 
 
